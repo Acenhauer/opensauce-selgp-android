@@ -14,6 +14,18 @@
     <description>
         Open Sauce Selgp Appium Android Test Examples
     </description>
+    <repositories>
+        <repository>
+            <id>guillemhs-release-repository</id>
+            <url>https://repository-guillemhs.forge.cloudbees.com/release/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
     <build>
         <plugins>
             <plugin>
