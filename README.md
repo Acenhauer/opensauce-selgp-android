@@ -5,14 +5,6 @@ This contains the source code for running sample [Appium](http://github.com/appi
 
 In order to run the tests, you will need to install [Apache Maven](http://maven.apache.org).
 
-Checkout this repo from Github
-
-    git clone git@github.com:guillemhs/opensauce-selgp.git
-
-Go to the folder where have checkout the code from opensauce selgp and compile it locally using this command:
-
-    mvn -U clean install
-
 Check out this repo from GitHub:
 
     git clone git@github.com:guillemhs/opensauce-selgp-android.git
